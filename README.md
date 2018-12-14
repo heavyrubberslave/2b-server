@@ -8,7 +8,7 @@ A client can connect through websocket to this server.
 $ yarn install
 ```
 
-## Runnable instructions
+## Run instructions
 
 ```
 $ node server.js
