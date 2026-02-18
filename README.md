@@ -1,3 +1,5 @@
+⚠️ **The code of this repository has been integrated into the [SlvCtrl+](https://github.com/SlvCtrlPlus) project.**
+
 # 2B e-stim server
 
 A client can connect through websocket to this server.
