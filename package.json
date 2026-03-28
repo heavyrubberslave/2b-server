@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "connect": "3.6.6",
-    "express": "4.16.3",
+    "express": "4.17.3",
     "minimist": "1.1.0",
     "morgan": "1.9.1",
     "sc-errors": "^1.4.1",
